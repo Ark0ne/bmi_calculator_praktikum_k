@@ -1,4 +1,4 @@
-# bmi_calculator_praktikum_k
+# bmi_calculator
 
 A new Flutter project.
 
